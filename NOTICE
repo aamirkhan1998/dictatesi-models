@@ -1,0 +1,9 @@
+DictateSI model files
+Copyright 2026 Aamir Khan
+
+This product includes model weights derived from Qwen2.5-1.5B-Instruct,
+Copyright Alibaba Cloud, licensed under the Apache License, Version 2.0
+(https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct). The derivative weights
+were produced by low-rank adaptation (LoRA) fine-tuning on synthetic
+dictation data and merged into the base weights, then quantized to GGUF with
+llama.cpp (MIT License, https://github.com/ggml-org/llama.cpp).
