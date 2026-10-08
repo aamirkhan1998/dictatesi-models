@@ -17,7 +17,7 @@ Each release's notes carry the file's SHA-256 so anyone can verify a download
 by hand:
 
 ```
-shasum -a 256 dictatesi-cleanup-v4-q4_k_m.gguf
+shasum -a 256 dictatesi-cleanup-v8-q4_k_m.gguf
 ```
 
 ## What the models are
